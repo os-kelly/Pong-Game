@@ -1,0 +1,28 @@
+.canvas {
+    width: 800px;
+    height: 400px;
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+}
+
+.scoreboard {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: 20px;
+}
+
+.controls {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+}
+
+body {
+    background: linear-gradient(to right, #4a90e2, #9013fe);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
